@@ -1,0 +1,36 @@
+p{
+    font-size: 20px;
+
+    font-weight: bold;
+}
+img{
+     width: 50%;
+    height: 400px;
+}
+div{
+    padding-left: 30px;
+    margin-right: 50px;
+}
+.division1{
+    background-color: chartreuse;
+}
+.division2{
+    background-color: crimson;
+}
+.division3{
+    background-color: darkgoldenrod;
+}
+#main{
+    background-color: lightslategray;
+    display: flex;
+    padding-top: 30px;
+}
+.heading1{
+    background-color: olivedrab;
+}
+.division2{
+    background-color: orange;
+}
+.imageparagraph{
+    display: flex;
+}

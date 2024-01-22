@@ -1,0 +1,44 @@
+form{
+    background-color: aqua;
+    padding: 50px;
+    margin: auto;
+    width: 50%;
+    text-align: justify;
+
+}
+h1{
+    font-size: 20px;
+    font-weight: bolder;
+    margin: auto;
+    width: 50%;
+    padding: 50px;
+    border-radius: 10px;
+
+}
+button[type=clear]{
+    background-color: darkblue;
+}
+button[type=Submit]{
+    background-color: chartreuse;
+}
+button {
+    width: 10%;
+    height: 40px;
+}
+input[type=text], input[type=date]{
+     width: 70%;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px ;
+    padding-left: 10px;
+}
+select{
+    width: 50%;
+    height: 40px;
+    padding-left: 100px;
+}
+label {
+    text-align: left;
+    width: 120px;
+    display: inline-block;
+}

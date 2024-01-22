@@ -1,0 +1,13 @@
+#maiin {
+    display: grid;
+}
+.all{
+    display: flex;
+    .all{
+        width: 20px;
+        height: 20px;
+    }
+}
+p{
+    padding-left: 30px;
+}
